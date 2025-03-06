@@ -19,9 +19,4 @@ Este proyecto es una implementación parcial desarrollada como parte del curso d
 - [Requisito 2, por ejemplo: Conexión a internet para acceder a servicios externos]
 - [Otros requisitos según corresponda]
 
-## Instalación y Configuración
-1. **Clonar el repositorio:**  
-   Abre una terminal y ejecuta:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
 
